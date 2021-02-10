@@ -1,0 +1,2 @@
+# Arduino-Based-Radar-system
+This Radar system is based is based on ArduinoUNO  microcontroller and ultrasonic sonar sensor. the programmed Arduino board  command the ultrasonic sensor . the sensor uses the echo principal to detects the objects in its range the range is set by the developer. the detected object is pointed on the screen graph also with the distance between the object and then sensor in CM.
